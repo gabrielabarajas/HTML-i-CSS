@@ -3,7 +3,7 @@
     padding:0;
 }
 
-@media only screen and (max-width: 1250px){
+@media only screen and (max-width: 1200px){
     .cont-main{
         background-color:azure;
         max-width: 1200px;
